@@ -1,0 +1,24 @@
+pdxmesh = {
+	name = "building_special_pyramids_giza_mesh"
+	file = "building_special_pyramids_giza.mesh"
+	scale = 0.7
+
+	lod_percentages = {
+		lod = { index = 1 percent = 3.0 }
+	}
+
+	meshsettings = {
+		name = "building_special_pyramids_giza_LOD_0Shape"
+		index = 0
+		texture_diffuse = "wonder_giza_diffuse.dds"
+		texture_normal = "wonder_giza_normal.dds"
+		texture_specular = "wonder_giza_properties.dds"
+		texture = { file = "building_special_pyramids_giza_unique.dds" index = 5 }
+		shader = "standard_atlas"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+entity = {
+	name = "building_special_pyramids_giza_entity"
+	pdxmesh = "building_special_pyramids_giza_mesh"
+}
