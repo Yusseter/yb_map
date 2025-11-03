@@ -42,7 +42,8 @@ posteffect_values = {
 posteffect_values = {
 	name = flatmap
 	inherit = zoom_step_01
-	exposure = 0.68
+	saturation_scale = 1.05
+	exposure = 0.7
 	fog_max = 0
 }
 

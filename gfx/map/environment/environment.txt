@@ -38,7 +38,7 @@ tonemap_middlegrey = 0.65
 tonemap_whiteluminance = 1.0
 
 exposure_function = "FixedExposure"
-exposure = 1.05
+exposure = 0.85
 
 ### Tonemapping function; "Uncharted", "Reinhard", "ReinhardModified", "Filmic". Leave empty for netural gamma corrected output.
 ### You can find them in restorescene.shader
