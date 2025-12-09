@@ -2,7 +2,7 @@
 #PostEffectVolumes.Enabled
 #PostEffectVolumes.ForceUpdate
 #Draw.DebugPostEffectVolumes
-
+	
 posteffect_values = {
 	name = standard
 	lut = "gfx/map/post_effects/colorcorrection_neutral.tga"
@@ -116,5 +116,3 @@ posteffect_volume = {
 	size = { 20000 2000 3000 }
 	fade_distance =  1000
 }
-	
-	
