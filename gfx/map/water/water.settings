@@ -67,7 +67,7 @@
 "WaterFlowSpeed" = 0.005
 "WaterZoomedOutFlowSpeedOffset" = 0.03
 "WaterFlowNormalScale" = 0.025
-"WaterFlowNormalFlatten" = @wave_flatness 
+"WaterFlowNormalFlatten" = @wave_flatness
 
 "WaterFadeShoreMaskDepth" = 0.5
 "WaterFadeShoreMaskSharpness" = 5

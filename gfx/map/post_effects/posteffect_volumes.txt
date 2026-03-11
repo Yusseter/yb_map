@@ -2,7 +2,7 @@
 #PostEffectVolumes.Enabled
 #PostEffectVolumes.ForceUpdate
 #Draw.DebugPostEffectVolumes
-	
+
 posteffect_values = {
 	name = standard
 	lut = "gfx/map/post_effects/colorcorrection_neutral.tga"
@@ -48,12 +48,9 @@ posteffect_values = {
 }
 
 #################################
-
 ############ VOLUMES ############
 ############ HEIGHTS ############
-
 #################################
-
 posteffect_volumes = {
 
 	posteffect_height_volume = {
@@ -68,39 +65,35 @@ posteffect_volumes = {
 
 	posteffect_height_volume = {
 		name = "zoom_step_01"
-	
+
 		posteffect_values_day = zoom_step_01
 		posteffect_values_night = zoom_step_01
-	
+
 		height = 100
 		fade_distance = 800
 	}
 
 	posteffect_height_volume = {
 		name = "flatmap"
-	
+
 		posteffect_values_day = flatmap
 		posteffect_values_night = flatmap
-	
+
 		height = 1218
 		fade_distance = 142
 	}
 }
 
-################################# 
-
-############ VOLUMES ############ 
-############ BOXES	 ############ 
-
 #################################
-
-	
+############ VOLUMES ############
+############  BOXES  ############
+#################################
 posteffect_volume = {
 	name = "north"
-	
+
 	posteffect_values_day = cold
 	posteffect_values_night = cold
-	
+
 	position = { 4000 0 4000 }
 	size = { 20000 2000 3000 }
 	fade_distance = 1000
@@ -108,11 +101,11 @@ posteffect_volume = {
 
 posteffect_volume = {
 	name = "south"
-	
+
 	posteffect_values_day = hot
 	posteffect_values_night = hot
-	
+
 	position = { 4000 0 500 }
 	size = { 20000 2000 3000 }
-	fade_distance =  1000
+	fade_distance = 1000
 }
