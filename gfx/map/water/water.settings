@@ -1,4 +1,4 @@
-"WaterColorTexturePath" = "gfx/map/water/watercolor_rgb_waterspec_a.dds"
+﻿"WaterColorTexturePath" = "gfx/map/water/watercolor_rgb_waterspec_a.dds"
 "AmbientNormalTexturePath" = "gfx/map/water/ambient_normal.dds"
 "FlowMapTexturePath" = "gfx/map/water/flowmap.dds"
 "FlowNormalTexturePath" = "gfx/map/water/flow_normal.dds"
