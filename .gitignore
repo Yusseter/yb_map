@@ -3,14 +3,14 @@
 #*.editordata
 #*.particle2
 #*.settings
+#*.dds
+#*.jpg
+#*.png
 *.dll
 *.dylib
 *.exe
 *.anim
-#*.dds
-#*.jpg
 *.mesh
-#*.png
 *.tga
 *.bin
 *.bank
