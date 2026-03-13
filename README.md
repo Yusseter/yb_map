@@ -5,7 +5,7 @@ Terrain textures, borders, water reflections and map readability have been refin
 _A subtle visual refinement rather than a complete redesign._
 
 <!-- [**Discord**](https://discord.gg/pWFEBGhxjZ) -->
-[![Discord](https://i.imgur.com/O5zCAq0.png)](https://discord.gg/pWFEBGhxjZ)
+[![Discord](https://i.imgur.com/O5zCAq0.png/#Discord-Server)](https://discord.gg/pWFEBGhxjZ)
 
 Feel free to use my work in your mods — all I ask is that I am credited and (if possible) to give me a heads up. If you liked the mod, feel free to favorite and rate it up!
 
@@ -61,6 +61,6 @@ You can also change the paper map from the graphics settings!
 - [Simple border](https://steamcommunity.com/workshop/filedetails/?id=2749577487)
 - [Wasteland Border Colour Remover](https://steamcommunity.com/workshop/filedetails/?id=2687816934)
 
-Paper map artwork by [AlphaQmaster](https://steamcommunity.com/id/huntQ3715/myworkshopfiles) (Discord: _[hunter00001](https://discordapp.com/users/427522651339358208)_)
+Paper map artwork by [**AlphaQmaster**](https://steamcommunity.com/id/huntQ3715/myworkshopfiles) (Discord: [_hunter00001_](https://discordapp.com/users/427522651339358208))
 
 **Thanks for your efforts!**
