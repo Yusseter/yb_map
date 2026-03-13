@@ -40,6 +40,10 @@ The mod folder should look something like this:
 - Better map font transparency
 - A beautiful topographic-style paper map
 
+You can also change the paper map from the graphics settings!
+
+<img src="https://i.imgur.com/u8KjFsH.png/#Paper-Folder-Screenshot">
+
 # Compatibility
 <!--![Compatibility Banner](https://i.imgur.com/Gb717mI.png/#Compatibility-Banner) -->
 
@@ -57,6 +61,6 @@ The mod folder should look something like this:
 - [Simple border](https://steamcommunity.com/workshop/filedetails/?id=2749577487)
 - [Wasteland Border Colour Remover](https://steamcommunity.com/workshop/filedetails/?id=2687816934)
 
-Paper map artwork by [AlphaQmaster](https://steamcommunity.com/id/huntQ3715/myworkshopfiles) (Discord: *[hunter00001](https://discordapp.com/users/427522651339358208)*)
+Paper map artwork by [AlphaQmaster](https://steamcommunity.com/id/huntQ3715/myworkshopfiles) (Discord: _[hunter00001](https://discordapp.com/users/427522651339358208)_)
 
 **Thanks for your efforts!**
