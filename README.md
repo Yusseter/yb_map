@@ -10,7 +10,7 @@ _A subtle visual refinement rather than a complete redesign._
 Feel free to use my work in your mods — all I ask is that I am credited and (if possible) to give me a heads up. If you liked the mod, feel free to favorite and rate it up!
 
 # Available On
-<!-- ![](https://i.imgur.com/xMSkexu.png/#Available_On-Banner) -->
+<!-- ![Available On Banner](https://i.imgur.com/xMSkexu.png/#Available_On-Banner) -->
 
 [![Paradox Mods](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/paradox-mods.png)](https://mods.paradoxplaza.com/mods/95923/Any)
 [![Steam](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/steam-workshop.png)](https://steamcommunity.com/workshop/filedetails/?id=3378722062)
