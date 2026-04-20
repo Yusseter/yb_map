@@ -47,7 +47,7 @@ You can also change the paper map from the graphics settings!
 # Compatibility
 <!--![Compatibility Banner](https://i.imgur.com/Gb717mI.png/#Compatibility-Banner) -->
 
-- Compatible with latest CK3 **1.18 "Crane" Update** with **All Under Heaven**
+- Compatible with latest CK3 **1.19 "Scribe" Update** with **All Under Heaven**
 - Works with pre-existing saves
 - No gameplay changes
 - Compatible with most other mods
