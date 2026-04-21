@@ -19,8 +19,8 @@ Feel free to use my work in your mods — all I ask is that I am credited and (i
 # Manual Installation Steps
 
  1. Go to [releases](https://github.com/Yusseter/yb_map/releases) and find the latest version or the version you wish to download.
- 2. Download the file named "**yb_map-\*version\*.zip**"
- 3. Extract the contents to the following folder: "_%USERPROFILE%\Documents\Paradox Interactive\Crusader Kings III\mod_"
+ 2. Download the file named **yb_map-\*version\*.zip** from the assets section.
+ 3. Extract the contents to the following folder: `%USERPROFILE%\Documents\Paradox Interactive\Crusader Kings III\mod\`
 
 The mod folder should look something like this:
 

@@ -7,6 +7,6 @@ gfx/map/terrain/flat_maps/flatmap_yb_main.dds filter=lfs diff=lfs merge=lfs -tex
 # Other export ignores
 #.gitattributes export-ignore
 #.gitignore export-ignore
-#steam_description_visual.bbcode export-ignore
-#steam_description.bbcode export-ignore
+#nexus_en.bbcode export-ignore
+#steam-workshop_en.bbcode export-ignore
 #README.md export-ignore
