@@ -17,6 +17,7 @@ Feel free to use my work in your mods — all I ask is that I am credited and (i
 [![Nexus](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/nexus.png)](https://www.nexusmods.com/crusaderkings3/mods/266)
 
 # Manual Installation Steps
+<!-- ![Manual Installation Steps Banner](https://i.imgur.com/lwrhimB.png/#Manual_Installation_Steps-Banner) -->
 
  1. Go to [releases](https://github.com/Yusseter/yb_map/releases) and find the latest version or the version you wish to download.
  2. Download the file named **yb_map-\*version\*.zip** from the assets section.
